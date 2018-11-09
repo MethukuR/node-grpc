@@ -1,0 +1,19 @@
+{
+  "name": "node-grpc",
+  "version": "1.0.0",
+  "description": "Creating grpc server and client using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MethukuR/node-grpc.git"
+  },
+  "author": "Raju MLN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MethukuR/node-grpc/issues"
+  },
+  "homepage": "https://github.com/MethukuR/node-grpc#readme"
+}
