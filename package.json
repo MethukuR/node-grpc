@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/MethukuR/node-grpc/issues"
   },
-  "homepage": "https://github.com/MethukuR/node-grpc#readme"
+  "homepage": "https://github.com/MethukuR/node-grpc#readme",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.3.0",
+    "grpc": "^1.16.0"
+  }
 }
